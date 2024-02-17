@@ -1,0 +1,19 @@
+title: Stephan Otto
+baseurl: https://sehnot.de/
+baseline: "Hi 👋"
+description: "Linksammlung von Stephan Otto" # optional, recommended
+author: # used by metatags, optional
+  name: Stephan Otto
+  url: https://www.linkedin.com/in/sehnot/
+avatar: avatar.png
+metatags:
+  favicon: favicon.png
+  image: avatar.png # optional, recommended
+image: avatar.png # Open Graph image, optional, recommended
+source: https://github.com/sehnot/sehnot_de # GitHub repository
+# Cecil options
+theme:
+  - fontawesome
+manifest:
+  #background_color: '#fff'
+  theme_color: '#0369a1' # https://tailwindcss.com/docs/customizing-colors "700"
