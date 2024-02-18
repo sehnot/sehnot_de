@@ -125,6 +125,9 @@
           {%- endset -%}
           {%- trans %}Powered by %powered_by%{% endtrans ~%}
         </div>
+        <div>
+          <a href="{{ site.source }}" title="{% trans %}View source code{% endtrans %}">{{ fontawesome.icon('github', 'brands') }}<span class="sr-only">{% trans %}View source code{% endtrans %}</span></a>
+        </div>
       </footer>
     </div>
     {#- scripts ~#}
